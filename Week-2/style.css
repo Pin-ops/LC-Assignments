@@ -1,0 +1,163 @@
+body {
+    font-family: "Montserrat";
+    text-align: center;
+    color: #49beb7;
+  }
+
+ 
+  
+  h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;   
+  }
+
+
+
+/* colored and normal part*/
+.colored-part{
+    background-color:#a6e3e9;
+    padding:1%;
+
+}
+.normal-part card{
+    background-color: #d7f7f5;
+
+}
+
+/*Nav-Bar-Section*/
+
+.nav-item{
+    color: #fcf9ec;
+
+}
+.navbar-nav {
+  display: flex;
+  margin-left:auto;
+  margin-right:auto;
+  width: 75%;
+  font-size: 28px;
+  text-transform: uppercase;
+}
+.nav-link { 
+
+  justify-content: center;
+  padding: 25px;
+}
+
+#title{
+  padding-left: 120px;
+}
+
+
+    /*about-me -section*/
+
+
+/* image*/
+
+#me {
+  width: 500px;
+  border-radius: 50%;
+  align-self: center;
+}
+
+h1#pin{
+  color: #085f63;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+
+}
+#bio{
+  padding: 2% ;
+}
+
+#about-me{
+  color: #49beb7;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+/*experience-section*/
+.table{
+  color: #49beb7;
+}
+
+#exper{
+  margin: 5% 0;
+}
+
+/* education */
+
+#edu{
+  margin: 5% 0;
+  padding: 5% 0;
+}
+
+#edu-table{
+  margin: 10px;
+}
+
+.table{
+  color: #085f63;
+  padding: 3%;
+}
+
+/* Skills */
+
+.card {
+margin: 25px 0;
+border: none;
+text-align: center;
+}
+
+.card-img{
+  border-radius: 25%;
+  align-self: center;
+  margin-left: 140px;
+  margin-right: 130px;
+  margin-top: 0;
+  padding: 0 10px;
+}
+
+#card-img-2{
+  width: 90%;
+  height: 46%;
+  margin-top: 0;
+}
+
+
+#card-img-3{
+  width: 100%;
+  height: 45%;
+  margin-top: 0;
+}
+.card-text{
+  list-style: none;
+ 
+}
+
+.skil{
+  text-align: initial;
+}
+
+
+/* footer*/
+
+
+.form-group{
+  position: relative;
+  width: 100%;
+  text-align:left;
+  color: #085f63;
+}
+
+.btn {
+  position: relative;
+
+}
+.social-icon{
+    margin: 20px 20px;
+   margin-top: 30px;
+  }

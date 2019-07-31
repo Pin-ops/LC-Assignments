@@ -1,0 +1,38 @@
+
+// for (let i = 0; i < bookList.length; i++) {
+//     var adress = bookList[i];
+//     var a = document.getElementById("bestList");
+//     var a2 = document.createElement('a');
+
+// }
+
+// var ulist = document.getElementById("bestList");
+// var newListItem = document.createElement("li");
+// var newAnchor = document.createElement("a");
+// newAnchor.textContent = book;
+// newAnchor.setAttribute('href', "");
+// newListItem.appendChild(newAnchor);
+// ulist.appendChild(newListItem);
+
+
+
+const aboutBook = document.createElement('h2');
+document.body.appendChild(aboutBook)
+
+aboutBook.class = 'explain'
+// var insertList = ['Animal Farm ', 'Pinocchio', 'The Great Gatsby', 'To Kill A Mockingbird', 'Harry Potter And The Sorcerers Stone', '1984', 'The Hobbit', 'Fahrenheit 451', 'Pride And Prejudice', 'Brave New World'];
+// for (let i = 0; i < bookList.length; i++) {
+//     var insert = insertList[i];
+//     var ul = document.getElementsByClassName('explain');
+//     var li = document.createElement('li');
+//     li.appendChild(document.createTextNode(insert));
+//     ul.appendChild(li);
+// }
+
+// var ulist = document.getElementById("bestList");
+// var newListItem = document.createElement("li");
+// var newAnchor = document.createElement("a");
+// newAnchor.textContent = book;
+// newAnchor.setAttribute('href', "");
+// newListItem.appendChild(newAnchor);
+// ulist.appendChild(newListItem);

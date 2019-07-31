@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  font-weight: bolder;
+}
+
+.paypal {
+  position: relative;
+  top: 20px;
+  left: 200px;
+}
+
+.signup {
+  padding-left: 25px;
+  position: absolute;
+  left: 750px;
+}
+
+hr {
+  margin-top: 25px;
+  margin-left: 0;
+  border-color: blue;
+  height: 30px;
+  background-color: blue;
+}
+
+.Welcome {
+  position: relative;
+  top: 10px;
+  left: 200px;
+  width: 120px;
+  border-style: groove;
+}
+
+.way {
+  position: absolute;
+  top: 100px;
+  margin-left: 400px;
+}
+
+.center {
+  text-align: center;
+}
+
+span {
+  text-decoration: underline;
+  color: blue;
+}
+
+.button {
+  position: absolute;
+  top: 50px;
+  left: 300px;
+  background-color: #7892c2;
+  -moz-border-radius: 42px;
+  -webkit-border-radius: 42px;
+  border-radius: 42px;
+  display: inline-block;
+  cursor: pointer;
+  font-family: Arial;
+  font-size: 19px;
+  padding: 10px 13px;
+  text-decoration: none;
+}
+
+.free {
+  border-style: ridge;
+  background-color: #FAFAD2;
+  text-decoration: underline;
+  text-align: center;
+  padding: 5px;
+}
+
+.spot {
+  position: absolute;
+  margin-top: 115px;
+  margin-left: 400px;
+  background-color: #D3D3D3;
+  width: 263px;
+  height: 10px;
+  padding: 10px;
+  border-style: ridge;
+}
+
+.spot1 {
+  text-align: left;
+  border-top-width: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.bus {
+  position: absolute;
+  left: 400px;
+  display: inline;
+  margin-top: 170px;
+}
+
+.id1 {
+  border-style: inset;
+  border-color: grey;
+  margin-top: 0;
+  background-color: grey;
+}
+
+.news {
+  position: relative;
+  top: 30px;
+  left: 200px;
+  width: 120px;
+  border-style: groove;
+}
+
+.quote {
+  margin-right: 0;
+}
+
+.ads {
+  position: relative;
+  top: 40px;
+  left: 200px;
+  width: 75px;
+}
+
+.travel {
+  width: 110px;
+  height: 70px;
+}
+
+.adress {
+  margin-left: 0px;
+  margin-top: 70px;
+  border-left-width: 100px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.copy {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.trust {
+  position: absolute;
+  left: 500px;
+  width: 110px;
+  height: 70px;
+}
